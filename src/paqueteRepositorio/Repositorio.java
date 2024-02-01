@@ -12,7 +12,7 @@ public class Repositorio {
      */
     public static void main(String[] args) {
         
-        System.out.println("Primer repositorio en Netbeans");
+        System.out.println("Estoy en la rama de pruebas");
         
     }
     
